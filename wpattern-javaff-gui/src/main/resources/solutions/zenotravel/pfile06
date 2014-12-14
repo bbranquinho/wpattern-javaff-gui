@@ -1,0 +1,5 @@
+(zoom plane1 city2 city3 fl5 fl4 fl3)
+(board person5 plane2 city2)
+(board person4 plane1 city1)
+(debark person5 plane2 city1)
+(debark person4 plane1 city3)
